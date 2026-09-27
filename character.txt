@@ -1,0 +1,4 @@
+name=hvuv23544_jp voice
+image=logo.png
+author=hvuv23544
+sample=a.wav
